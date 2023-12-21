@@ -1,1 +1,3 @@
-# application-of-unsupervised-learning
+# Introduction
+
+这个仓库存储《统计学习方法》期末考核—“统计学习的应用”的课程作业。
